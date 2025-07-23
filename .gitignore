@@ -20,3 +20,4 @@ Thumbs.db
 
 # 项目特定文件
 *.log 
+file/api.md
