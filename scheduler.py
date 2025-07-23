@@ -137,7 +137,8 @@ def configure_scheduler():
     # 注册原有定时任务 - 使用API_TOKEN
     original_tasks = [
         {"id": "hotspots4", "minute": 1, "name": "房地产"},
-        {"id": "hotspots5", "minute": 2, "name": "金价"}
+        {"id": "hotspots5", "minute": 2, "name": "金价"},
+        {"id": "hotspots6", "minute": 3, "name": "黄历信息"},
     ]
     
     # 添加原始任务

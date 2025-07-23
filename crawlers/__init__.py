@@ -21,6 +21,7 @@ from .people_science_crawler import people_science_bp
 from .ndrc_policy_crawler import ndrc_policy_bp
 from .chinapolicy_crawler import chinapolicy_bp
 from .stock_index_crawler import stock_index_bp
+from .tthuangli_crawler import tthuangli_bp
 
 # 创建爬虫模块的主蓝图
 crawlers_bp = Blueprint('crawlers', __name__)
@@ -47,6 +48,7 @@ crawlers_bp.register_blueprint(people_science_bp, url_prefix='/people_science')
 crawlers_bp.register_blueprint(ndrc_policy_bp, url_prefix='/ndrc_policy')
 crawlers_bp.register_blueprint(chinapolicy_bp, url_prefix='/chinapolicy')
 crawlers_bp.register_blueprint(stock_index_bp, url_prefix='/stock_index')
+crawlers_bp.register_blueprint(tthuangli_bp, url_prefix='/tthuangli')
 
 # 爬虫索引路由
 @crawlers_bp.route('/', methods=['GET'])
@@ -152,6 +154,26 @@ def list_crawlers():
             'name': '中国政策网解读',
             'endpoint': '/api/crawlers/chinapolicy/chinapolicy_news',
             'description': '获取中国政策网解读栏目24小时内的最新两条文章'
+        },
+        {
+            'name': '天天黄历-日期信息',
+            'endpoint': '/api/crawlers/tthuangli/date_info',
+            'description': '获取天天黄历网站的年月日信息'
+        },
+        {
+            'name': '天天黄历-宜忌信息',
+            'endpoint': '/api/crawlers/tthuangli/yiji_info',
+            'description': '获取天天黄历网站的宜忌信息'
+        },
+        {
+            'name': '天天黄历-五行穿衣指南',
+            'endpoint': '/api/crawlers/tthuangli/wuxing_info',
+            'description': '获取天天黄历网站的五行穿衣指南信息'
+        },
+        {
+            'name': '天天黄历-所有信息',
+            'endpoint': '/api/crawlers/tthuangli/all_info',
+            'description': '获取天天黄历网站的所有信息（日期、宜忌、五行穿衣指南）'
         }
     ]
     
