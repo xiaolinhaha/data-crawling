@@ -1,0 +1,1896 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+ * Serving Flask app 'app'
+ * Debug mode: off
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+获取到的文章发布日期: 2025-05-09
+文章发布于过去24小时内(2025-05-09)，继续获取详情
+获取到的文章发布时间: 2025-05-09 08:30:37
+文章发布于过去24小时内(2025-05-09 08:30:37)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 3803字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0509/c14739-40476271.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 从《哪吒2》枪版案 看如何斩断电影黑灰产业链
+正在获取文章详情: http://society.people.com.cn/n1/2025/0508/c1008-40475261.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 鸿蒙电脑正式亮相 国产操作系统实现重要突破
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0509/c404214-40476154.html
+获取到的文章发布日期: 2025-05-10
+文章发布于过去24小时内(2025-05-10)，继续获取详情
+获取到的文章发布时间: 2025-05-10 08:44:58
+文章发布于过去24小时内(2025-05-10 08:44:58)，继续获取详情
+获取到的文章发布时间: 金融界 · 51分钟前 · 1239阅读
+解析发布时间出错: time data '金融界 · 51分钟前 · 1239阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1851字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0509/c14739-40476271.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 三个角度读懂“投资于人”
+正在获取文章详情: http://society.people.com.cn/n1/2025/0509/c1008-40476103.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 鸿蒙电脑正式亮相 国产操作系统实现重要突破
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0509/c404214-40476154.html
+获取到的文章发布日期: 2025-05-11
+文章发布于过去24小时内(2025-05-11)，继续获取详情
+获取到的文章发布时间: 2025-05-11 08:54:02
+文章发布于过去24小时内(2025-05-11 08:54:02)，继续获取详情
+获取到的文章发布时间: 财联社 · 3小时前 · 1357阅读
+解析发布时间出错: time data '财联社 · 3小时前 · 1357阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1898字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0510/c14739-40477039.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 三个角度读懂“投资于人”
+正在获取文章详情: http://society.people.com.cn/n1/2025/0509/c1008-40476103.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 鸿蒙电脑正式亮相 国产操作系统实现重要突破
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0509/c404214-40476154.html
+获取到的文章发布日期: 2025-05-12
+文章发布于过去24小时内(2025-05-12)，继续获取详情
+获取到的文章发布时间: 2025-05-12 08:37:30
+文章发布于过去24小时内(2025-05-12 08:37:30)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 4121字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0511/c14739-40477350.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 救命的医疗设备，如何沦为个人提款机？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0512/c1008-40477506.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 鸿蒙电脑正式亮相 国产操作系统实现重要突破
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0509/c404214-40476154.html
+获取到的文章发布日期: 2025-05-13
+文章发布于过去24小时内(2025-05-13)，继续获取详情
+获取到的文章发布时间: 2025-05-13 08:59:34
+文章发布于过去24小时内(2025-05-13 08:59:34)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2254字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0513/c14739-40478579.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 各地区各部门广泛开展科普演练
+正在获取文章详情: http://society.people.com.cn/n1/2025/0513/c1008-40478349.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: “人工智能+”正在走进千行百业
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0512/c404214-40477564.html
+获取到的文章发布日期: 2025-05-14
+文章发布于过去24小时内(2025-05-14)，继续获取详情
+获取到的文章发布时间: 2025-05-14 08:49:54
+文章发布于过去24小时内(2025-05-14 08:49:54)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 50分钟前 · 3300阅读
+解析发布时间出错: time data '每日经济新闻 · 50分钟前 · 3300阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1300字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0514/c14739-40479398.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 市场监管总局等五部门约谈外卖平台企业
+正在获取文章详情: http://society.people.com.cn/n1/2025/0514/c1008-40479104.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 中国盾构机练就"七十二变"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0514/c404214-40479152.html
+获取到的文章发布日期: 2025-05-15
+文章发布于过去24小时内(2025-05-15)，继续获取详情
+获取到的文章发布时间: 2025-05-15 08:28:03
+文章发布于过去24小时内(2025-05-15 08:28:03)，继续获取详情
+获取到的文章发布时间: 财联社 · 50分钟前 · 1154阅读
+解析发布时间出错: time data '财联社 · 50分钟前 · 1154阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 783字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0515/c14739-40480245.html
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: “千行万业系列招聘会”春季专场活动举行
+正在获取文章详情: http://society.people.com.cn/n1/2025/0515/c1008-40479875.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 中国盾构机练就"七十二变"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0514/c404214-40479152.html
+获取到的文章发布日期: 2025-05-16
+文章发布于过去24小时内(2025-05-16)，继续获取详情
+获取到的文章发布时间: 2025-05-16 08:44:19
+文章发布于过去24小时内(2025-05-16 08:44:19)，继续获取详情
+获取到的文章发布时间: 金融界 · 13分钟前
+解析发布时间出错: time data '金融界 · 13分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1773字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0516/c14739-40480804.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 大藤峡水利枢纽发电量突破200亿千瓦时
+正在获取文章详情: http://society.people.com.cn/n1/2025/0516/c1008-40480788.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 星星为什么会“眨眼睛”？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0516/c404214-40480822.html
+获取到的文章发布日期: 2025-05-16
+文章发布时间(2025-05-16)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-05-17 08:52:40
+文章发布于过去24小时内(2025-05-17 08:52:40)，继续获取详情
+获取到的文章发布时间: 财联社 · 26分钟前
+解析发布时间出错: time data '财联社 · 26分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 24字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1408字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0516/c14739-40480804.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 大藤峡水利枢纽发电量突破200亿千瓦时
+正在获取文章详情: http://society.people.com.cn/n1/2025/0516/c1008-40480788.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 星星为什么会“眨眼睛”？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0516/c404214-40480822.html
+获取到的文章发布日期: 2025-05-18
+文章发布于过去24小时内(2025-05-18)，继续获取详情
+获取到的文章发布时间: 2025-05-18 08:58:13
+文章发布于过去24小时内(2025-05-18 08:58:13)，继续获取详情
+获取到的文章发布时间: 财联社 · 1小时前 · 1291阅读
+解析发布时间出错: time data '财联社 · 1小时前 · 1291阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1516字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0518/c14739-40482129.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 大藤峡水利枢纽发电量突破200亿千瓦时
+正在获取文章详情: http://society.people.com.cn/n1/2025/0516/c1008-40480788.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 星星为什么会“眨眼睛”？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0516/c404214-40480822.html
+获取到的文章发布日期: 2025-05-19
+文章发布于过去24小时内(2025-05-19)，继续获取详情
+获取到的文章发布时间: 2025-05-19 08:43:57
+文章发布于过去24小时内(2025-05-19 08:43:57)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1159字
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0519/c14739-40482700.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 完善无障碍服务，别让“刷脸”困住尊严
+正在获取文章详情: http://society.people.com.cn/n1/2025/0519/c1008-40482334.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 科技金融让“硬科技”更硬气
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0519/c404214-40482380.html
+获取到的文章发布日期: 2025-05-20
+文章发布于过去24小时内(2025-05-20)，继续获取详情
+获取到的文章发布时间: 2025-05-20 08:52:45
+文章发布于过去24小时内(2025-05-20 08:52:45)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 3688字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0520/c14739-40483221.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 全国救捞系统多措并举织牢防汛安全网
+正在获取文章详情: http://society.people.com.cn/n1/2025/0520/c1008-40483256.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 新型粮仓，新在哪里？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0520/c404214-40483334.html
+获取到的文章发布日期: 2025-05-21
+文章发布于过去24小时内(2025-05-21)，继续获取详情
+获取到的文章发布时间: 2025-05-21 08:56:15
+文章发布于过去24小时内(2025-05-21 08:56:15)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1405字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0521/c14739-40484457.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 公安机关严厉打击境外黑客违法犯罪活动
+正在获取文章详情: http://society.people.com.cn/n1/2025/0521/c1008-40484173.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 新型粮仓，新在哪里？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0520/c404214-40483334.html
+获取到的文章发布日期: 2025-05-22
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+文章发布于过去24小时内(2025-05-22)，继续获取详情
+获取到的文章发布时间: 2025-05-22 08:37:22
+文章发布于过去24小时内(2025-05-22 08:37:22)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 16分钟前
+解析发布时间出错: time data '上海证券报 · 16分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1779字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0522/c14739-40484970.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 公安机关严厉打击境外黑客违法犯罪活动
+正在获取文章详情: http://society.people.com.cn/n1/2025/0521/c1008-40484173.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 工业机器人，迈向“全能选手”
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0521/c404214-40484335.html
+获取到的文章发布日期: 2025-05-23
+文章发布于过去24小时内(2025-05-23)，继续获取详情
+获取到的文章发布时间: 2025-05-23 08:54:59
+文章发布于过去24小时内(2025-05-23 08:54:59)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1574字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0523/c14739-40486091.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 代表深入基层 问需问计于民
+正在获取文章详情: http://society.people.com.cn/n1/2025/0522/c1008-40485015.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: "先尝后买" 更多科技成果"被看见"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0523/c404214-40485891.html
+获取到的文章发布日期: 2025-05-24
+文章发布于过去24小时内(2025-05-24)，继续获取详情
+获取到的文章发布时间: 2025-05-24 08:40:00
+文章发布于过去24小时内(2025-05-24 08:40:00)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 24分钟前
+解析发布时间出错: time data '界面新闻 · 24分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 120字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1290字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0523/c14739-40486091.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 最高人民法院发布加强未成年人综合司法保护典型案例
+正在获取文章详情: http://society.people.com.cn/n1/2025/0523/c1008-40486036.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: "先尝后买" 更多科技成果"被看见"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0523/c404214-40485891.html
+获取到的文章发布日期: 2025-05-25
+文章发布于过去24小时内(2025-05-25)，继续获取详情
+获取到的文章发布时间: 2025-05-25 08:57:50
+文章发布于过去24小时内(2025-05-25 08:57:50)，继续获取详情
+获取到的文章发布时间: 证券时报 · 51分钟前
+解析发布时间出错: time data '证券时报 · 51分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 120字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1633字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0524/c14739-40486822.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 中国少年先锋队第九次全国代表大会将于5月27日至28日召开
+正在获取文章详情: http://politics.people.com.cn/n1/2025/0525/c1001-40487023.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: "先尝后买" 更多科技成果"被看见"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0523/c404214-40485891.html
+获取到的文章发布日期: 2025-05-26
+文章发布于过去24小时内(2025-05-26)，继续获取详情
+获取到的文章发布时间: 2025-05-26 08:48:08
+文章发布于过去24小时内(2025-05-26 08:48:08)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 4分钟前
+解析发布时间出错: time data '每日经济新闻 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2159字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0526/c14739-40487543.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 六部门公布《国家网络身份认证公共服务管理办法》
+正在获取文章详情: http://society.people.com.cn/n1/2025/0526/c1008-40487314.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: "先尝后买" 更多科技成果"被看见"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0523/c404214-40485891.html
+获取到的文章发布日期: 2025-05-27
+文章发布于过去24小时内(2025-05-27)，继续获取详情
+获取到的文章发布时间: 2025-05-27 08:09:06
+文章发布于过去24小时内(2025-05-27 08:09:06)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 14分钟前
+解析发布时间出错: time data '每日经济新闻 · 14分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 3008字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0526/c14739-40487543.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 公安机关公布网络攻击来源为中国台湾民进党当局有关黑客组织
+正在获取文章详情: http://society.people.com.cn/n1/2025/0527/c1008-40488588.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 养老院装上"智慧大脑" 服务提质不提价
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0527/c404214-40488263.html
+获取到的文章发布日期: 2025-05-28
+文章发布于过去24小时内(2025-05-28)，继续获取详情
+获取到的文章发布时间: 2025-05-28 07:50:46
+文章发布于过去24小时内(2025-05-28 07:50:46)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 6分钟前
+解析发布时间出错: time data '上海证券报 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1333字
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+ * Serving Flask app 'app'
+ * Debug mode: off
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:601: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  df: DataFrame = pandas.read_html(str(resp_text))[0]
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+获取到的文章发布日期: 2025-05-30
+文章发布于过去24小时内(2025-05-30)，继续获取详情
+获取到的文章发布时间: 2025-05-30 08:47:28
+文章发布于过去24小时内(2025-05-30 08:47:28)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 6分钟前
+解析发布时间出错: time data '界面新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1572字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0530/c14739-40490979.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 用人单位办托，怎样办得起托得好？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0530/c1008-40490773.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 天问二号发射成功 开启小行星探测与采样返回之旅
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0529/c404214-40490307.html
+获取到的文章发布日期: 2025-05-30
+文章发布时间(2025-05-30)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-05-31 08:52:31
+文章发布于过去24小时内(2025-05-31 08:52:31)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 5分钟前
+解析发布时间出错: time data '界面新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1484字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0530/c14739-40490979.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 2025年全国“安全生产月”活动启动
+正在获取文章详情: http://society.people.com.cn/n1/2025/0531/c1008-40491597.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 为实现科技自立自强贡献聪明才智
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0530/c404214-40490804.html
+获取到的文章发布日期: 2025-05-30
+文章发布时间(2025-05-30)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-06-01 08:55:49
+文章发布于过去24小时内(2025-06-01 08:55:49)，继续获取详情
+获取到的文章发布时间: 财联社 · 41分钟前
+解析发布时间出错: time data '财联社 · 41分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1583字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://finance.people.com.cn/n1/2025/0601/c1004-40491952.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 2025年全国“安全生产月”活动启动
+正在获取文章详情: http://society.people.com.cn/n1/2025/0531/c1008-40491597.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 为实现科技自立自强贡献聪明才智
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0530/c404214-40490804.html
+获取到的文章发布日期: 2025-06-02
+文章发布于过去24小时内(2025-06-02)，继续获取详情
+获取到的文章发布时间: 2025-06-02 08:57:32
+文章发布于过去24小时内(2025-06-02 08:57:32)，继续获取详情
+获取到的文章发布时间: 证券时报 · 27分钟前
+解析发布时间出错: time data '证券时报 · 27分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1809字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://finance.people.com.cn/n1/2025/0601/c1004-40491952.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 2025年全国“安全生产月”活动启动
+正在获取文章详情: http://society.people.com.cn/n1/2025/0531/c1008-40491597.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 中国为什么坚持减碳？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0602/c404214-40492246.html
+获取到的文章发布日期: 2025-06-03
+文章发布于过去24小时内(2025-06-03)，继续获取详情
+获取到的文章发布时间: 2025-06-03 08:48:29
+文章发布于过去24小时内(2025-06-03 08:48:29)，继续获取详情
+获取到的文章发布时间: 证券时报 · 5分钟前
+解析发布时间出错: time data '证券时报 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 599字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0603/c14739-40492752.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 端午假期预计全社会跨区域人员流动量累计6.57亿人次
+正在获取文章详情: http://society.people.com.cn/n1/2025/0603/c1008-40492519.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 5000多年前的水网长啥样？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0603/c404214-40492525.html
+获取到的文章发布日期: 2025-06-04
+文章发布于过去24小时内(2025-06-04)，继续获取详情
+获取到的文章发布时间: 2025-06-04 08:51:48
+文章发布于过去24小时内(2025-06-04 08:51:48)，继续获取详情
+获取到的文章发布时间: 财联社 · 16分钟前
+解析发布时间出错: time data '财联社 · 16分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1027字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0604/c14739-40493663.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 我国将新增改造超千个"司机之家"
+正在获取文章详情: http://society.people.com.cn/n1/2025/0604/c1008-40493337.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 北京科创成果不断"上新"
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0604/c404214-40493372.html
+获取到的文章发布日期: 2025-06-05
+文章发布于过去24小时内(2025-06-05)，继续获取详情
+获取到的文章发布时间: 2025-06-05 08:25:41
+文章发布于过去24小时内(2025-06-05 08:25:41)，继续获取详情
+获取到的文章发布时间: 财联社 · 8分钟前
+解析发布时间出错: time data '财联社 · 8分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 454字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0605/c14739-40494402.html
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 我国将新增改造超千个"司机之家"
+正在获取文章详情: http://society.people.com.cn/n1/2025/0604/c1008-40493337.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 银发旅游，如何适老又悦老？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0605/c404214-40494172.html
+获取到的文章发布日期: 2025-06-06
+文章发布于过去24小时内(2025-06-06)，继续获取详情
+获取到的文章发布时间: 2025-06-06 08:49:50
+文章发布于过去24小时内(2025-06-06 08:49:50)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 5分钟前
+解析发布时间出错: time data '每日经济新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1443字
+开始爬取中国政策网内容...
+成功获取到2条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0606/c14739-40495196.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 公安机关公开通缉台湾"资通电军"重要犯罪嫌疑人
+正在获取文章详情: http://society.people.com.cn/n1/2025/0606/c1008-40495181.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 我国掌握自主研制生产先进民用涡轴发动机能力
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0606/c404214-40495016.html
+获取到的文章发布日期: 2025-06-07
+文章发布于过去24小时内(2025-06-07)，继续获取详情
+获取到的文章发布时间: 2025-06-07 08:45:01
+文章发布于过去24小时内(2025-06-07 08:45:01)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 15分钟前
+解析发布时间出错: time data '上海证券报 · 15分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1294字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0607/c14739-40496051.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 公安机关公开通缉台湾"资通电军"重要犯罪嫌疑人
+正在获取文章详情: http://society.people.com.cn/n1/2025/0606/c1008-40495181.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 我国掌握自主研制生产先进民用涡轴发动机能力
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0606/c404214-40495016.html
+获取到的文章发布日期: 2025-06-08
+文章发布于过去24小时内(2025-06-08)，继续获取详情
+获取到的文章发布时间: 2025-06-08 08:57:29
+文章发布于过去24小时内(2025-06-08 08:57:29)，继续获取详情
+获取到的文章发布时间: 财联社 · 昨天18:03 · 2.0万阅读
+解析发布时间出错: time data '财联社 · 昨天18:03 · 2.0万阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2283字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0607/c14739-40496056.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 10年来中国新制定设区的市地方性法规超过5000件
+正在获取文章详情: http://society.people.com.cn/n1/2025/0607/c1008-40495913.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 我国掌握自主研制生产先进民用涡轴发动机能力
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0606/c404214-40495016.html
+获取到的文章发布日期: 2025-06-09
+文章发布于过去24小时内(2025-06-09)，继续获取详情
+获取到的文章发布时间: 2025-06-09 08:54:25
+文章发布于过去24小时内(2025-06-09 08:54:25)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1297字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0607/c14739-40496056.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 公安机关依法严厉打击破坏生态环境犯罪
+正在获取文章详情: http://society.people.com.cn/n1/2025/0609/c1008-40496507.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 杜绝餐饮浪费，学校食堂怎么做？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0609/c404214-40496572.html
+获取到的文章发布日期: 2025-06-10
+文章发布于过去24小时内(2025-06-10)，继续获取详情
+获取到的文章发布时间: 2025-06-10 08:43:00
+文章发布于过去24小时内(2025-06-10 08:43:00)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 2分钟前
+解析发布时间出错: time data '上海证券报 · 2分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2498字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0610/c14739-40497664.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 最高法发布促进民营经济发展典型刑事案例
+正在获取文章详情: http://society.people.com.cn/n1/2025/0610/c1008-40497328.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 国产人形机器人走上全球最长猫道
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0610/c404214-40497377.html
+获取到的文章发布日期: 2025-06-11
+文章发布于过去24小时内(2025-06-11)，继续获取详情
+获取到的文章发布时间: 2025-06-11 09:01:52
+文章发布于过去24小时内(2025-06-11 09:01:52)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2009字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0611/c14739-40498199.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 华南中南部等地有较强降雨
+正在获取文章详情: http://society.people.com.cn/n1/2025/0611/c1008-40498023.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 国产人形机器人走上全球最长猫道
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0610/c404214-40497377.html
+获取到的文章发布日期: 2025-06-12
+文章发布于过去24小时内(2025-06-12)，继续获取详情
+获取到的文章发布时间: 2025-06-12 08:11:51
+文章发布于过去24小时内(2025-06-12 08:11:51)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 8分钟前
+解析发布时间出错: time data '上海证券报 · 8分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1998字
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0612/c14739-40499092.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 第三届全国技能大赛将于9月在郑州举办
+正在获取文章详情: http://society.people.com.cn/n1/2025/0612/c1008-40498790.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: "从0到1"的突破 "从1到100"的转化
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0612/c404214-40498870.html
+获取到的文章发布日期: 2025-06-13
+文章发布于过去24小时内(2025-06-13)，继续获取详情
+获取到的文章发布时间: 2025-06-13 08:43:57
+文章发布于过去24小时内(2025-06-13 08:43:57)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 17分钟前
+解析发布时间出错: time data '每日经济新闻 · 17分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 282字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0612/c14739-40499092.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 台风“蝴蝶”来袭 三亚启动防汛防风Ⅱ级应急响应
+正在获取文章详情: http://society.people.com.cn/n1/2025/0613/c1008-40499514.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: “科技红娘”成就好“姻缘”
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0613/c404214-40499620.html
+获取到的文章发布日期: 2025-06-13
+文章发布时间(2025-06-13)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-06-14 08:52:53
+文章发布于过去24小时内(2025-06-14 08:52:53)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 1小时前
+解析发布时间出错: time data '上海证券报 · 1小时前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 111字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 631字
+开始爬取中国政策网内容...
+成功获取到2条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0613/c14739-40499765.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 台风“蝴蝶”来袭 三亚启动防汛防风Ⅱ级应急响应
+正在获取文章详情: http://society.people.com.cn/n1/2025/0613/c1008-40499514.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: “科技红娘”成就好“姻缘”
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0613/c404214-40499620.html
+获取到的文章发布日期: 2025-06-13
+文章发布时间(2025-06-13)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-06-15 08:56:15
+文章发布于过去24小时内(2025-06-15 08:56:15)，继续获取详情
+获取到的文章发布时间: 证券时报 · 12分钟前
+解析发布时间出错: time data '证券时报 · 12分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1215字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0614/c14739-40500443.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 台风“蝴蝶”在广东沿海二次登陆
+正在获取文章详情: http://society.people.com.cn/n1/2025/0615/c1008-40500697.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: “科技红娘”成就好“姻缘”
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0613/c404214-40499620.html
+获取到的文章发布日期: 2025-06-16
+文章发布于过去24小时内(2025-06-16)，继续获取详情
+获取到的文章发布时间: 2025-06-16 08:26:29
+文章发布于过去24小时内(2025-06-16 08:26:29)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2675字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0616/c14739-40501303.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 最高法发布生态环境保护专题指导性案例
+正在获取文章详情: http://society.people.com.cn/n1/2025/0616/c1008-40501037.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: “科技红娘”成就好“姻缘”
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0613/c404214-40499620.html
+获取到的文章发布日期: 2025-06-17
+文章发布于过去24小时内(2025-06-17)，继续获取详情
+获取到的文章发布时间: 2025-06-17 08:41:58
+文章发布于过去24小时内(2025-06-17 08:41:58)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 5分钟前
+解析发布时间出错: time data '每日经济新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2723字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0617/c14739-40502266.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 两部门推动解决新就业群体急难愁盼问题
+正在获取文章详情: http://society.people.com.cn/n1/2025/0617/c1008-40501883.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 立体停车库怎么成了摆设
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0616/c404214-40501073.html
+获取到的文章发布日期: 2025-06-18
+文章发布于过去24小时内(2025-06-18)，继续获取详情
+获取到的文章发布时间: 2025-06-18 08:51:01
+文章发布于过去24小时内(2025-06-18 08:51:01)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 13分钟前
+解析发布时间出错: time data '上海证券报 · 13分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 3851字
+获取HTML失败，状态码: 404
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+获取HTML失败，状态码: 404
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+开始爬取中国政策网内容...
+成功获取到2条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0618/c14739-40502909.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 保民生，各地出实招
+正在获取文章详情: http://society.people.com.cn/n1/2025/0618/c1008-40502907.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: "梦舟"载人飞船零高度逃逸飞行试验取得圆满成功
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0618/c404214-40502936.html
+获取到的文章发布日期: 2025-06-19
+文章发布于过去24小时内(2025-06-19)，继续获取详情
+获取到的文章发布时间: 2025-06-19 08:54:41
+文章发布于过去24小时内(2025-06-19 08:54:41)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 3分钟前
+解析发布时间出错: time data '每日经济新闻 · 3分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2119字
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0619/c14739-40503763.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 这十年，地方立法新在哪儿
+正在获取文章详情: http://society.people.com.cn/n1/2025/0619/c1008-40503802.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 请收藏，这些国家一级保护鸟类图
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0619/c404214-40503827.html
+获取到的文章发布日期: 2025-06-20
+文章发布于过去24小时内(2025-06-20)，继续获取详情
+获取到的文章发布时间: 2025-06-20 08:41:19
+文章发布于过去24小时内(2025-06-20 08:41:19)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 5分钟前
+解析发布时间出错: time data '每日经济新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 6009字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0620/c14739-40504707.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 水利部启动洪水防御Ⅳ级应急响应
+正在获取文章详情: http://society.people.com.cn/n1/2025/0620/c1008-40504680.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 请收藏，这些国家一级保护鸟类图
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0619/c404214-40503827.html
+获取到的文章发布日期: 2025-06-21
+文章发布于过去24小时内(2025-06-21)，继续获取详情
+获取到的文章发布时间: 2025-06-21 08:24:02
+文章发布于过去24小时内(2025-06-21 08:24:02)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 15分钟前
+解析发布时间出错: time data '上海证券报 · 15分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2842字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0620/c14739-40504707.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 水利部启动洪水防御Ⅳ级应急响应
+正在获取文章详情: http://society.people.com.cn/n1/2025/0620/c1008-40504680.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 三峡工程“牵手”南水北调工程分几步?
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0620/c404214-40504753.html
+获取到的文章发布日期: 2025-06-21
+文章发布时间(2025-06-21)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-06-22 08:38:56
+文章发布于过去24小时内(2025-06-22 08:38:56)，继续获取详情
+获取到的文章发布时间: 财联社 · 昨天19:49 · 5152阅读
+解析发布时间出错: time data '财联社 · 昨天19:49 · 5152阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新搜狐金融Cookie...
+1. 访问搜狐首页: https://www.sohu.com/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问金融快讯主题页: https://www.sohu.com/xtopic/TURBeE1qUXlNall3
+主题页响应状态码: 200
+更新后的Cookie: {'SUV': '1750554482780odin8QDF'}
+Cookie已成功刷新！
+原Cookie: {}
+新Cookie: {'SUV': '1750554482780odin8QDF'}
+使用刷新后的Cookie重新获取文章详情...
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1428字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0621/c14739-40505737.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 水利部启动洪水防御Ⅳ级应急响应
+正在获取文章详情: http://society.people.com.cn/n1/2025/0620/c1008-40504680.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 三峡工程“牵手”南水北调工程分几步?
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0620/c404214-40504753.html
+获取到的文章发布日期: 2025-06-23
+文章发布于过去24小时内(2025-06-23)，继续获取详情
+获取到的文章发布时间: 2025-06-23 08:26:12
+文章发布于过去24小时内(2025-06-23 08:26:12)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 5分钟前
+解析发布时间出错: time data '界面新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1331字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0622/c14739-40506036.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 2025年“净网”“护网”专项工作部署会召开
+正在获取文章详情: http://society.people.com.cn/n1/2025/0623/c1008-40506184.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 三峡工程“牵手”南水北调工程分几步?
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0620/c404214-40504753.html
+获取到的文章发布日期: 2025-06-24
+文章发布于过去24小时内(2025-06-24)，继续获取详情
+获取到的文章发布时间: 2025-06-24 08:41:47
+文章发布于过去24小时内(2025-06-24 08:41:47)，继续获取详情
+获取到的文章发布时间: 搜狐财经 · 8分钟前
+解析发布时间出错: time data '搜狐财经 · 8分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1938字
+文章 '黑芝麻智能：拟回购不超过1亿元公司股票' 内容长度不足200字，跳过
+开始爬取中国政策网内容...
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0624/c14739-40507392.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 全国法院一审审结毒品犯罪案件同比下降近三成
+正在获取文章详情: http://society.people.com.cn/n1/2025/0624/c1008-40507158.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 这些高精尖，都是“北京造”
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0623/c404214-40506256.html
+获取到的文章发布日期: 2025-06-25
+文章发布于过去24小时内(2025-06-25)，继续获取详情
+获取到的文章发布时间: 2025-06-25 08:39:02
+文章发布于过去24小时内(2025-06-25 08:39:02)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2116字
+开始爬取中国政策网内容...
+成功获取到2条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0625/c14739-40508352.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 两部门紧急预拨3亿元中央自然灾害救灾资金
+正在获取文章详情: http://society.people.com.cn/n1/2025/0625/c1008-40508038.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 成飞：智能化工厂世界一流 让歼-10每月都不一样
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0625/c404214-40508104.html
+获取到的文章发布日期: 2025-06-26
+文章发布于过去24小时内(2025-06-26)，继续获取详情
+获取到的文章发布时间: 2025-06-26 08:22:13
+文章发布于过去24小时内(2025-06-26 08:22:13)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 2分钟前
+解析发布时间出错: time data '界面新闻 · 2分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2892字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0626/c14739-40509212.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 禁毒路上，他们够拼够专业
+正在获取文章详情: http://society.people.com.cn/n1/2025/0626/c1008-40508930.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 成飞：智能化工厂世界一流 让歼-10每月都不一样
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0625/c404214-40508104.html
+获取到的文章发布日期: 2025-06-27
+文章发布于过去24小时内(2025-06-27)，继续获取详情
+获取到的文章发布时间: 2025-06-27 08:37:08
+文章发布于过去24小时内(2025-06-27 08:37:08)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 3分钟前
+解析发布时间出错: time data '每日经济新闻 · 3分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 10353字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0626/c14739-40509212.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: “城市闯关”的人，跑单路上怎样不卡壳？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0627/c1008-40509713.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 中国科技进步的世界注脚——从自然指数看中国“十四五”科研成就
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0626/c404214-40509004.html
+获取到的文章发布日期: 2025-06-27
+文章发布时间(2025-06-27)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-06-28 08:56:44
+文章发布于过去24小时内(2025-06-28 08:56:44)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 9分钟前
+解析发布时间出错: time data '上海证券报 · 9分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 143字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2253字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0628/c14739-40510671.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: “城市闯关”的人，跑单路上怎样不卡壳？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0627/c1008-40509713.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 海上“牧鱼”成现实 何时能吃上“苏海1号”养殖的三文鱼？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0627/c404214-40510160.html
+获取到的文章发布日期: 2025-06-29
+文章发布于过去24小时内(2025-06-29)，继续获取详情
+获取到的文章发布时间: 2025-06-29 09:02:09
+文章发布于过去24小时内(2025-06-29 09:02:09)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 14分钟前
+解析发布时间出错: time data '上海证券报 · 14分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1403字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0628/c14739-40510671.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: “城市闯关”的人，跑单路上怎样不卡壳？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0627/c1008-40509713.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 海上“牧鱼”成现实 何时能吃上“苏海1号”养殖的三文鱼？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0627/c404214-40510160.html
+获取到的文章发布日期: 2025-06-30
+文章发布于过去24小时内(2025-06-30)，继续获取详情
+获取到的文章发布时间: 2025-06-30 08:25:29
+文章发布于过去24小时内(2025-06-30 08:25:29)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1025字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0629/c14739-40510961.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 高校招生录取期间谨防上当受骗
+正在获取文章详情: http://society.people.com.cn/n1/2025/0630/c1008-40511139.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+找到大标题: 海上“牧鱼”成现实 何时能吃上“苏海1号”养殖的三文鱼？
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0627/c404214-40510160.html
+获取到的文章发布日期: 2025-07-01
+文章发布于过去24小时内(2025-07-01)，继续获取详情
+获取到的文章发布时间: 2025-07-01 07:56:12
+文章发布于过去24小时内(2025-07-01 07:56:12)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 5分钟前
+解析发布时间出错: time data '每日经济新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2111字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0701/c14739-40512362.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 高校招生录取期间谨防上当受骗
+正在获取文章详情: http://society.people.com.cn/n1/2025/0630/c1008-40511139.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 内蒙古最大水利工程试通水成功 惠及300余万人
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0701/c404214-40512219.html
+获取到的文章发布日期: 2025-07-02
+文章发布于过去24小时内(2025-07-02)，继续获取详情
+获取到的文章发布时间: 2025-07-02 08:11:12
+文章发布于过去24小时内(2025-07-02 08:11:12)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 4分钟前
+解析发布时间出错: time data '每日经济新闻 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2998字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0702/c14739-40513263.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 治安管理处罚法  哪些修订与你我密切相关
+正在获取文章详情: http://society.people.com.cn/n1/2025/0702/c1008-40512899.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 内蒙古最大水利工程试通水成功 惠及300余万人
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0701/c404214-40512219.html
+获取到的文章发布日期: 2025-07-03
+文章发布于过去24小时内(2025-07-03)，继续获取详情
+获取到的文章发布时间: 2025-07-03 07:52:06
+文章发布于过去24小时内(2025-07-03 07:52:06)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 4分钟前
+解析发布时间出错: time data '上海证券报 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1471字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0702/c14739-40513263.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 在国内销售的充电宝必须要有CCC标志吗？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0703/c1008-40513763.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 世界首台500兆瓦冲击式机组转轮研制成功
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0703/c404214-40513662.html
+获取到的文章发布日期: 2025-07-04
+文章发布于过去24小时内(2025-07-04)，继续获取详情
+获取到的文章发布时间: 2025-07-04 08:32:20
+文章发布于过去24小时内(2025-07-04 08:32:20)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 4分钟前
+解析发布时间出错: time data '界面新闻 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 3372字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0703/c14739-40514041.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 在国内销售的充电宝必须要有CCC标志吗？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0703/c1008-40513763.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 世界首台500兆瓦冲击式机组转轮研制成功
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0703/c404214-40513662.html
+获取到的文章发布日期: 2025-07-04
+文章发布时间(2025-07-04)不在过去24小时内，返回空结果
+获取到的文章发布时间: 2025-07-05 08:59:37
+文章发布于过去24小时内(2025-07-05 08:59:37)，继续获取详情
+获取到的文章发布时间: 金融界 · 41分钟前
+解析发布时间出错: time data '金融界 · 41分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 950字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0704/c14739-40514672.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 700号段来了，专为保护你的个人信息
+正在获取文章详情: http://society.people.com.cn/n1/2025/0705/c1008-40515140.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 国产C909，飞得更高更远
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0704/c404214-40514507.html
+获取到的文章发布日期: 2025-07-06
+文章发布于过去24小时内(2025-07-06)，继续获取详情
+获取到的文章发布时间: 2025-07-06 08:43:57
+文章发布于过去24小时内(2025-07-06 08:43:57)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 9分钟前
+解析发布时间出错: time data '每日经济新闻 · 9分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 31967字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0704/c14739-40514672.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 700号段来了，专为保护你的个人信息
+正在获取文章详情: http://society.people.com.cn/n1/2025/0705/c1008-40515140.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 国产C909，飞得更高更远
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0704/c404214-40514507.html
+获取到的文章发布日期: 2025-07-07
+文章发布于过去24小时内(2025-07-07)，继续获取详情
+获取到的文章发布时间: 2025-07-07 08:53:47
+文章发布于过去24小时内(2025-07-07 08:53:47)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 4分钟前
+解析发布时间出错: time data '上海证券报 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+/home/rongshu/app/back_end/workflow_function/src-prod/controller.py:697: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 697 of the file /home/rongshu/app/back_end/workflow_function/src-prod/controller.py. To get rid of this warning, pass the additional argument 'features="lxml"' to the BeautifulSoup constructor.
+
+  soup = BeautifulSoup(html)
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+
+/home/rongshu/miniconda3/lib/python3.11/site-packages/readabilipy/javascript/node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js:11
+    throw DOMException.create(globalObject, [
+    ^
+[DOMException [InvalidCharacterError]: """ did not match the Name production: Unexpected syntax in top
+Line 1:
+"
+^^^]
+
+Node.js v18.20.3
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 4436字
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+获取HTML失败，状态码: 404
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+获取HTML失败，状态码: 404
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+获取HTML失败，状态码: 404
+获取文章详情失败，尝试刷新Cookie...
+开始自动刷新中证网Cookie...
+1. 访问中证网首页: https://www.cs.com.cn/
+首页响应状态码: 200
+获取到的Cookie: {}
+2. 访问公司要闻页面: https://www.cs.com.cn/ssgs/gsxw/
+公司要闻页面响应状态码: 200
+更新后的Cookie: {}
+未能获取到有效的Cookie
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0707/c14739-40516099.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 整治涉企网络“黑嘴”专项行动曝光一批典型案例
+正在获取文章详情: http://society.people.com.cn/n1/2025/0707/c1008-40515708.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 国产C909，飞得更高更远
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0704/c404214-40514507.html
+获取到的文章发布日期: 2025-07-08
+文章发布于过去24小时内(2025-07-08)，继续获取详情
+获取到的文章发布时间: 2025-07-08 08:42:10
+文章发布于过去24小时内(2025-07-08 08:42:10)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 2236字
+开始爬取中国政策网内容...
+成功获取到1条1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0708/c14739-40516863.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 华北等地多降雨 台风“丹娜丝”继续影响浙闽赣等地
+正在获取文章详情: http://society.people.com.cn/n1/2025/0708/c1008-40516767.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 夏季多雨，这些安全隐患要留意
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0708/c404214-40516695.html
+获取到的文章发布日期: 2025-07-09
+文章发布于过去24小时内(2025-07-09)，继续获取详情
+获取到的文章发布时间: 2025-07-09 08:50:52
+文章发布于过去24小时内(2025-07-09 08:50:52)，继续获取详情
+获取到的文章发布时间: 界面新闻 · 5分钟前
+解析发布时间出错: time data '界面新闻 · 5分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1989字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0709/c14739-40517818.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 全国检察机关上半年受理“减假暂”审查案件13万余人
+正在获取文章详情: http://society.people.com.cn/n1/2025/0709/c1008-40517498.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 天舟八号货运飞船已受控再入大气层
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0709/c404214-40517572.html
+获取到的文章发布日期: 2025-07-11
+文章发布于过去24小时内(2025-07-11)，继续获取详情
+获取到的文章发布时间: 2025-07-11 13:13:17
+文章发布于过去24小时内(2025-07-11 13:13:17)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 41分钟前 · 2968阅读
+解析发布时间出错: time data '上海证券报 · 41分钟前 · 2968阅读' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容不足200字或无效，长度: 7字
+尝试获取第2条新闻的详情...
+第2条新闻内容有效，长度: 1303字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0711/c14739-40519534.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 二〇二五年退休人员基本养老金继续上调百分之二
+正在获取文章详情: http://society.people.com.cn/n1/2025/0711/c1008-40519228.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 南沙群岛永暑礁首次发现保护动物绿海龟
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0711/c404214-40519330.html
+获取到的文章发布日期: 2025-07-11
+文章发布于过去24小时内(2025-07-11)，继续获取详情
+获取到的文章发布时间: 2025-07-11 16:42:53
+文章发布于过去24小时内(2025-07-11 16:42:53)，继续获取详情
+获取到的文章发布时间: 财联社 · 9分钟前
+解析发布时间出错: time data '财联社 · 9分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2379字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0711/c14739-40519534.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 二〇二五年退休人员基本养老金继续上调百分之二
+正在获取文章详情: http://society.people.com.cn/n1/2025/0711/c1008-40519228.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 南沙群岛永暑礁首次发现保护动物绿海龟
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0711/c404214-40519330.html
+获取到的文章发布日期: 2025-07-12
+文章发布于过去24小时内(2025-07-12)，继续获取详情
+获取到的文章发布时间: 2025-07-12 16:31:14
+文章发布于过去24小时内(2025-07-12 16:31:14)，继续获取详情
+获取到的文章发布时间: 财联社 · 10分钟前
+解析发布时间出错: time data '财联社 · 10分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2665字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0712/c14739-40520165.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 二〇二五年退休人员基本养老金继续上调百分之二
+正在获取文章详情: http://society.people.com.cn/n1/2025/0711/c1008-40519228.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 南沙群岛永暑礁首次发现保护动物绿海龟
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0711/c404214-40519330.html
+获取到的文章发布日期: 2025-07-13
+文章发布于过去24小时内(2025-07-13)，继续获取详情
+获取到的文章发布时间: 2025-07-13 16:42:48
+文章发布于过去24小时内(2025-07-13 16:42:48)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 24分钟前
+解析发布时间出错: time data '上海证券报 · 24分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 6972字
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0713/c14739-40520472.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 二〇二五年退休人员基本养老金继续上调百分之二
+正在获取文章详情: http://society.people.com.cn/n1/2025/0711/c1008-40519228.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 南沙群岛永暑礁首次发现保护动物绿海龟
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0711/c404214-40519330.html
+获取到的文章发布日期: 2025-07-14
+文章发布于过去24小时内(2025-07-14)，继续获取详情
+获取到的文章发布时间: 2025-07-14 16:56:50
+文章发布于过去24小时内(2025-07-14 16:56:50)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 4分钟前
+解析发布时间出错: time data '每日经济新闻 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2311字
+文章 '中粮资本：公司暂无虚拟资产交易相关业务' 内容长度不足200字，跳过
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0714/c14739-40520804.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 高温天气下，劳动者权益如何保障
+正在获取文章详情: http://society.people.com.cn/n1/2025/0714/c1008-40520674.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 高温"烤"验持续，劳动者权益如何保障
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0714/c404214-40520720.html
+获取到的文章发布日期: 2025-07-15
+文章发布于过去24小时内(2025-07-15)，继续获取详情
+获取到的文章发布时间: 2025-07-15 16:37:21
+文章发布于过去24小时内(2025-07-15 16:37:21)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 6分钟前
+解析发布时间出错: time data '每日经济新闻 · 6分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2080字
+文章 '中国核建：截至6月，累计新签合同871.49亿元 累计营收531.84亿元' 内容长度不足200字，跳过
+文章 '光库科技：预计上半年净利润同比增长60%—80%' 内容长度不足200字，跳过
+文章 '春秋航空：6月旅客周转量同比增长11.64%' 内容长度不足200字，跳过
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0715/c14739-40521796.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 百日千万招聘专项行动推出人工智能与互联网等专场
+正在获取文章详情: http://society.people.com.cn/n1/2025/0715/c1008-40521587.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 中国科协党组书记:团结引领广大科技工作者肩负起建设科技强国的时代责任
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0715/c404214-40521650.html
+获取到的文章发布日期: 2025-07-16
+文章发布于过去24小时内(2025-07-16)，继续获取详情
+获取到的文章发布时间: 2025-07-16 16:33:18
+文章发布于过去24小时内(2025-07-16 16:33:18)，继续获取详情
+获取到的文章发布时间: 每日经济新闻 · 4分钟前
+解析发布时间出错: time data '每日经济新闻 · 4分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 1970字
+文章 '恒银科技：预计上半年净利1350万元到1620万元 同比扭亏为盈' 内容长度不足200字，跳过
+文章 '精工钢构：签约沙特5.5亿元吉达体育场及周边体育村项目 项目将用于足球世界杯赛事' 内容长度不足200字，跳过
+文章 '顺丰控股：公司业务量保持良好增长态势 主要得益于公司推进落实激活经营策略等' 内容长度不足200字，跳过
+文章 '中望软件：收到政府补助款项共计2800万元' 内容长度不足200字，跳过
+文章 '壹石通：收到政府补助款项共计200万元' 内容长度不足200字，跳过
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0716/c14739-40522382.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: 卓越工程师首届专项试点硕士毕业生整体实现高质量就业
+正在获取文章详情: http://society.people.com.cn/n1/2025/0716/c1008-40522366.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: @大学生，这份资助手册请查收
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0716/c404214-40522424.html
+获取到的文章发布日期: 2025-07-17
+文章发布于过去24小时内(2025-07-17)，继续获取详情
+获取到的文章发布时间: 2025-07-17 16:23:56
+文章发布于过去24小时内(2025-07-17 16:23:56)，继续获取详情
+获取到的文章发布时间: 上海证券报 · 10分钟前
+解析发布时间出错: time data '上海证券报 · 10分钟前' does not match format '%Y-%m-%d %H:%M:%S'，将继续获取文章详情
+尝试获取第1条新闻的详情...
+第1条新闻内容有效，长度: 2302字
+文章 '金发科技：人形机器人、固态电池相关营收占比较小' 内容长度不足200字，跳过
+文章 '长华集团：收到国内某新能源车企客户定点 预计总销售金额约2.35亿元' 内容长度不足200字，跳过
+文章 '金智科技：近期累计中标1.33亿元国家电网、南方电网项目' 内容长度不足200字，跳过
+文章 '宁波高发：拟不超2000万美元投建摩洛哥生产基地' 内容长度不足200字，跳过
+文章 '振华科技：电子元器件整体需求量有望保持增长' 内容长度不足200字，跳过
+开始爬取中国政策网内容...
+未找到1天内的新闻
+正在获取人民网健康首页: http://health.people.com.cn/
+正在获取文章详情: http://health.people.com.cn/n1/2025/0717/c14739-40523876.html
+正在获取人民网社会版块首页: http://society.people.com.cn/
+找到大标题: “互助托管”照顾宠物却致宠物生病 押金该退吗？
+正在获取文章详情: http://society.people.com.cn/n1/2025/0717/c1008-40523730.html
+正在获取人民网科普版块首页: http://kpzg.people.com.cn/
+找到大标题: 低空飞行器风洞启用
+正在获取文章详情: http://kpzg.people.com.cn/n1/2025/0717/c404214-40523618.html
+获取到的文章发布日期: 2025-07-18
+文章发布于过去24小时内(2025-07-18)，继续获取详情

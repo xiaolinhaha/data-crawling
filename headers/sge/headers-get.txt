@@ -1,0 +1,19 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding: gzip
+Accept-Language: en,zh-CN;q=0.9,zh;q=0.8
+Cache-Control: no-cache
+Connection: keep-alive
+Cookie: JSESSIONID=66188BE2EFD78AA2E064A4222D92A874
+DNT: 1
+Host: www.sge.com.cn
+Pragma: no-cache
+Referer: https://www.sge.com.cn/sjzx/quotation_daily_new?start_date=2024-05-06&end_date=2024-05-06&inst_ids=Au(T%2BD)
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "YaBrowser";v="24.4", "Yowser";v="2.5"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
